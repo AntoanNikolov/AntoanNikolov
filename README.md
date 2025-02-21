@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Find my projects below:  
-[Play Wordle in Python!](https://github.com/AntoanNikolov/WordleInCurses)  
-[Play Go Fish in Python too!](https://github.com/AntoanNikolov/Curses_Card_Game)  
-[A PyGame project. Have a 1v1 spaceship battle!](http://github.com/AntoanNikolov/Asteroid_Havoc)  
-[Use your camera to control the character and get a high score!](https://github.com/AntoanNikolov/RedbullGivesYouWings)  
-[Play Rock Paper Scissors with your real hands!](https://github.com/AntoanNikolov/RPS_Python)  
+[Play Wordle in Python](https://github.com/AntoanNikolov/WordleInCurses)  
+[Play Go Fish in Python too](https://github.com/AntoanNikolov/Curses_Card_Game)  
+[A PyGame project. Have a 1v1 spaceship battle](http://github.com/AntoanNikolov/Asteroid_Havoc)  
+[Use your camera to control the character and get a high score](https://github.com/AntoanNikolov/RedbullGivesYouWings)  
+[Play Rock Paper Scissors with your real hands](https://github.com/AntoanNikolov/RPS_Python)  
