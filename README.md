@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Find my projects below:  
-[A functional cosmetology appointment website, made for the Arlington Career Center](https://github.com/ACCDjangoGirls/cosmetology_webapp)  
+[A cosmetology appointment website made for the Arlington Career Center](https://github.com/ACCDjangoGirls/cosmetology_webapp)  
 [Play Wordle in Python](https://github.com/AntoanNikolov/WordleInCurses)  
 [Play Go Fish in Python](https://github.com/AntoanNikolov/Curses_Card_Game)  
 [Have a 1v1 spaceship battle in Python](http://github.com/AntoanNikolov/Asteroid_Havoc)  
